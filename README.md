@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **askamanofficial@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on:** Deploying a SQL Database on Amazon RDS
 - 🌱 **I’m currently learning:** Kubernetes
-- 🤔 **I’m looking for help with:**Building a Fullstack App with ECS, Terraform,and CodePipeline
+- 🤔 **I’m looking for help with:** Building a Fullstack App with ECS, Terraform,and CodePipeline
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** askamanofficial@gmail.com
 - 😄 **Pronouns:** Aman
